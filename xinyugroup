@@ -11,13 +11,13 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://www.xinyushanghai.cn/javamail/collection.ipa</string>
+                        <string>http://www.xinyushanghai.cn/xinyugroup/xinyuchat.ipa</string>
                     </dict>
                 </array>
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.shanghaixyinfo.collection</string>
+                    <string>com.shanghaixyinfo.xinyuchat</string>
                     <key>bundle-version</key>
                     <string>1.0</string>
                     <key>kind</key>
